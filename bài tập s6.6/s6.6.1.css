@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header h1{
+    border-left: 10px solid orange;
+    height: 50px;
+    width: 500px;
+    padding-left: 5px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+.content{
+    width: 500px;
+}
